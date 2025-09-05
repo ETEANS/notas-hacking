@@ -1,10 +1,10 @@
 
-Reto
+Reto:
 
-Descripción
+Descripción:
 
-Solución
+Solución:
 
-Notas adicionales
+Notas adicionales:
 
-Referencias
+Referencias:
