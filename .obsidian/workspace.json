@@ -11,10 +11,14 @@
             "id": "9a036274604d1d01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/T1 - General Skills/Special.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Special"
             }
           }
         ]
@@ -165,10 +169,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a192f00707b9d008",
+  "active": "9a036274604d1d01",
   "lastOpenFiles": [
-    "PicoCTF/03 - General Skills/PW Crack 2.md",
+    "PicoCTF/T1 - General Skills/Permissions.md",
+    "PicoCTF/T1 - General Skills/Special.md",
+    "plantilla.md",
+    "PicoCTF/T1 - General Skills/Time Machine.md",
+    "README.md",
+    "PicoCTF/T1 - General Skills/Chrono.md",
+    "PicoCTF/T1 - General Skills/ASCII Numbers.md",
+    "PicoCTF/T1 - General Skills/Commitment Issues.md",
+    "PicoCTF/T1 - General Skills/Collaborative Development.md",
+    "PicoCTF/T1 - General Skills/Blame Game.md",
+    "PicoCTF/T1 - General Skills/Binary Search.md",
+    "PicoCTF/T1 - General Skills/Binhexa.md",
     "PicoCTF/03 - General Skills/Serpentine.md",
+    "PicoCTF/T1 - General Skills",
+    "PicoCTF/03 - General Skills/PW Crack 2.md",
     "PicoCTF/03 - General Skills/PW Crack 3.md",
     "PicoCTF/03 - General Skills/Super SSH.md",
     "PicoCTF/03 - General Skills/plantilla 1 1 1 1 1 1 1 1.md",
@@ -181,19 +198,7 @@
     "PicoCTF/03 - General Skills/Fixme2.py.md",
     "PicoCTF/03 - General Skills/Fixme1.py.md",
     "PicoCTF/03 - General Skills/Blank Spaces.md",
-    "plantilla.md",
     "PicoCTF/03 - General Skills",
-    "PicoCTF/02 - General Skills/Useless.md",
-    "PicoCTF/02 - General Skills/Based.md",
-    "PicoCTF/02 - General Skills/Big Zip.md",
-    "PicoCTF/02 - General Skills/Wave a flag.md",
-    "PicoCTF/02 - General Skills/Tab, Tab, Attack.md",
-    "PicoCTF/02 - General Skills/Strings it.md",
-    "PicoCTF/02 - General Skills/Static ain't always noise.md",
-    "PicoCTF/02 - General Skills/Magikarp Ground Mission.md",
-    "PicoCTF/02 - General Skills/First Find.md",
-    "PicoCTF/01 - General Skills/Warmed Up.md",
-    "PicoCTF/01 - General Skills/Nice netcat.md",
     "PicoCTF/02 - General Skills",
     "PicoCTF/01 - General Skills",
     "PicoCTF",
