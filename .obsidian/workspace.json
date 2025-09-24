@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plantilla.md",
+                "file": "PicoCTF/02 - Web/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla"
+              "title": "Scavenger Hunt"
             }
           }
         ]
@@ -171,19 +171,23 @@
   },
   "active": "9a036274604d1d01",
   "lastOpenFiles": [
-    "PicoCTF/01 - Web/Picobrowser.md",
+    "PicoCTF/02 - Web/GET aHEAD.md",
+    "PicoCTF/02 - Web/Cookies.md",
+    "PicoCTF/02 - Web/Scavenger Hunt.md",
+    "PicoCTF/01 - Web/Client side again.md",
     "PicoCTF/01 - Web/Insp3ctor.md",
     "PicoCTF/01 - Web/Logon.md",
-    "PicoCTF/01 - Web/Where are the robots.md",
     "plantilla.md",
-    "PicoCTF/01 - Web/Client side again.md",
+    "PicoCTF/01 - Web/Picobrowser.md",
+    "PicoCTF/01 - Web/Where are the robots.md",
     "PicoCTF/01 - Web/Dont-use-client-side.md",
+    "README.md",
+    "PicoCTF/02 - Web",
     "PicoCTF/T1 - General Skills/Special.md",
     "PicoCTF/01 - Web",
     "PicoCTF/w.md",
     "PicoCTF/T1 - General Skills/Permissions.md",
     "PicoCTF/T1 - General Skills/Time Machine.md",
-    "README.md",
     "PicoCTF/T1 - General Skills/Chrono.md",
     "PicoCTF/T1 - General Skills/ASCII Numbers.md",
     "PicoCTF/T1 - General Skills/Commitment Issues.md",
@@ -196,9 +200,6 @@
     "PicoCTF/03 - General Skills/PW Crack 2.md",
     "PicoCTF/03 - General Skills/PW Crack 3.md",
     "PicoCTF/03 - General Skills/Super SSH.md",
-    "PicoCTF/03 - General Skills/plantilla 1 1 1 1 1 1 1 1.md",
-    "PicoCTF/03 - General Skills/Runme.py.md",
-    "PicoCTF/03 - General Skills/Codebook.md",
     "PicoCTF/03 - General Skills",
     "PicoCTF/02 - General Skills",
     "PicoCTF/01 - General Skills",
