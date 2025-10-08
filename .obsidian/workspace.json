@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/T2 - Web/IntroToBurp.md",
+                "file": "PicoCTF/02 - Forensic/C0rrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntroToBurp"
+              "title": "C0rrupt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plantilla.md",
+                "file": "PicoCTF/02 - Forensic/C0rrupt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de plantilla"
+              "title": "Enlaces entrantes de C0rrupt"
             }
           },
           {
@@ -171,6 +171,26 @@
   },
   "active": "9a036274604d1d01",
   "lastOpenFiles": [
+    "PicoCTF/02 - Forensic/WhitePages.md",
+    "PicoCTF/02 - Forensic/Shark on wire 2.md",
+    "PicoCTF/01 - Forensic/What Lies Within.md",
+    "PicoCTF/01 - Forensic/So meta.md",
+    "PicoCTF/02 - Forensic/C0rrupt.md",
+    "PicoCTF/02 - Forensic/Like1000.md",
+    "PicoCTF/02 - Web/Cookies.md",
+    "PicoCTF/02 - Forensic/M00nwalk.md",
+    "PicoCTF/01 - Forensic/Shark on wire 1.md",
+    "plantilla.md",
+    "PicoCTF/Primer Parcial/02 - Web/SSTI1.md",
+    "PicoCTF/Primer Parcial/02 - Web/Cookie Monster Secret Recipe.md",
+    "PicoCTF/02 - Web/Scavenger Hunt.md",
+    "PicoCTF/02 - Web/GET aHEAD.md",
+    "PicoCTF/Primer Parcial/01 - General Skills/Rust Fixme 3.md",
+    "PicoCTF/Primer Parcial/01 - General Skills/Rust Fixme 2.md",
+    "PicoCTF/Primer Parcial/01 - General Skills/Rust Fixme 1.md",
+    "PicoCTF/Primer Parcial/02 - Web/Bookmarklet.md",
+    "PicoCTF/T2 - Web/IntroToBurp.md",
+    "PicoCTF/02 - Forensic",
     "PicoCTF/T2 - Web/SQLiLite.md",
     "PicoCTF/T2 - Web/Local Authority.md",
     "PicoCTF/T2 - Web/Power Cookie.md",
@@ -178,26 +198,7 @@
     "PicoCTF/T2 - Web/Secrets.md",
     "PicoCTF/T2 - Web/Unminify.md",
     "PicoCTF/T2 - Web/WebDecode.md",
-    "plantilla.md",
-    "PicoCTF/01 - Web/Insp3ctor.md",
-    "PicoCTF/02 - Web/GET aHEAD.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/HashingJobApp.md",
-    "PicoCTF/01 - Web/Where are the robots.md",
-    "PicoCTF/01 - Web/Logon.md",
-    "PicoCTF/01 - Web/Dont-use-client-side.md",
-    "PicoCTF/01 - Web/Client side again.md",
-    "PicoCTF/02 - Web/Cookies.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/Rust Fixme 1.md",
-    "PicoCTF/T2 - Web/IntroToBurp.md",
-    "PicoCTF/T2 - Web/Inspect HTML.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/Python Wrangling.md",
-    "PicoCTF/02 - Web/Scavenger Hunt.md",
-    "PicoCTF/01 - Web/Picobrowser.md",
-    "PicoCTF/T2 - Web/Includes.md",
     "PicoCTF/T2 - Web",
-    "README.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/FANTASY CTF.md",
-    "PicoCTF/01 - Forensic/Shark on wire 1.md",
     "PicoCTF/Primer Parcial/02 - Web",
     "PicoCTF/01 - Forensic",
     "PicoCTF/Primer Parcial/01 - General Skills",
@@ -205,7 +206,6 @@
     "PicoCTF/04 - Web",
     "PicoCTF/03 - Web",
     "PicoCTF/02 - Web",
-    "PicoCTF/01 - Web",
-    "PicoCTF/T1 - General Skills"
+    "PicoCTF/01 - Web"
   ]
 }
