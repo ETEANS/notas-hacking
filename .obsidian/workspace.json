@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Primer Parcial/01 - General Skills/SansAlpha.md",
+                "file": "PicoCTF/03 - Forensic/WebNet1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SansAlpha"
+              "title": "WebNet1"
             }
           }
         ]
@@ -171,16 +171,23 @@
   },
   "active": "9a036274604d1d01",
   "lastOpenFiles": [
+    "PicoCTF/03 - Forensic/WebNet0.md",
+    "PicoCTF/03 - Forensic/WebNet1.md",
+    "PicoCTF/01 - Forensic/Shark on wire 1.md",
+    "plantilla.md",
+    "PicoCTF/03 - Forensic/Matryoshka doll.md",
+    "PicoCTF/03 - Forensic/MacroHard WeakEdge.md",
+    "PicoCTF/03 - Forensic/Tunn3l v1s10n.md",
+    "PicoCTF/Primer Parcial/01 - General Skills/SansAlpha.md",
+    "PicoCTF/03 - Forensic",
     "PicoCTF/Primer Parcial/01 - General Skills/Specialer.md",
     "PicoCTF/T1 - General Skills/Special.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/SansAlpha.md",
     "PicoCTF/Primer Parcial/02 - Web/SSTI2.md",
     "PicoCTF/Primer Parcial/02 - Web/SSTI1.md",
     "PicoCTF/Primer Parcial/02 - Web/SQL Direct.md",
     "PicoCTF/Primer Parcial/02 - Web/Findme.md",
     "PicoCTF/Primer Parcial/02 - Web/Cookie Monster Secret Recipe.md",
     "PicoCTF/Primer Parcial/02 - Web/Bookmarklet.md",
-    "plantilla.md",
     "PicoCTF/03 - General Skills/Super SSH.md",
     "PicoCTF/Primer Parcial/01 - General Skills/Flag-shop.md",
     "PicoCTF/Primer Parcial/01 - General Skills/Rust Fixme 1.md",
@@ -191,12 +198,6 @@
     "PicoCTF/02 - Forensic/C0rrupt.md",
     "PicoCTF/02 - Forensic/WhitePages.md",
     "PicoCTF/02 - Forensic/Shark on wire 2.md",
-    "PicoCTF/01 - Forensic/What Lies Within.md",
-    "PicoCTF/01 - Forensic/So meta.md",
-    "PicoCTF/02 - Forensic/Like1000.md",
-    "PicoCTF/02 - Web/Cookies.md",
-    "PicoCTF/02 - Forensic/M00nwalk.md",
-    "PicoCTF/01 - Forensic/Shark on wire 1.md",
     "PicoCTF/02 - Forensic",
     "PicoCTF/T2 - Web",
     "PicoCTF/Primer Parcial/02 - Web",
@@ -205,7 +206,6 @@
     "PicoCTF/Primer Parcial",
     "PicoCTF/04 - Web",
     "PicoCTF/03 - Web",
-    "PicoCTF/02 - Web",
-    "PicoCTF/01 - Web"
+    "PicoCTF/02 - Web"
   ]
 }
