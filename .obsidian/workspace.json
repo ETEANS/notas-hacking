@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/03 - Forensic/WebNet1.md",
+                "file": "PicoCTF/04 - Forensic/Operation Orchid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebNet1"
+              "title": "Operation Orchid"
             }
           }
         ]
@@ -171,13 +171,20 @@
   },
   "active": "9a036274604d1d01",
   "lastOpenFiles": [
+    "PicoCTF/04 - Forensic/Operation Oni.md",
+    "PicoCTF/04 - Forensic/Operation Orchid.md",
+    "PicoCTF/04 - Forensic/Sleuthkit Intro.md",
+    "plantilla.md",
+    "PicoCTF/04 - Forensic/Disk, disk, sleuth!.md",
+    "PicoCTF/04 - Forensic/Sleuthkit Apprentice.md",
+    "README.md",
+    "PicoCTF/03 - Forensic/MacroHard WeakEdge.md",
+    "PicoCTF/04 - Forensic",
+    "PicoCTF/03 - Forensic/Matryoshka doll.md",
+    "PicoCTF/03 - Forensic/Tunn3l v1s10n.md",
     "PicoCTF/03 - Forensic/WebNet0.md",
     "PicoCTF/03 - Forensic/WebNet1.md",
     "PicoCTF/01 - Forensic/Shark on wire 1.md",
-    "plantilla.md",
-    "PicoCTF/03 - Forensic/Matryoshka doll.md",
-    "PicoCTF/03 - Forensic/MacroHard WeakEdge.md",
-    "PicoCTF/03 - Forensic/Tunn3l v1s10n.md",
     "PicoCTF/Primer Parcial/01 - General Skills/SansAlpha.md",
     "PicoCTF/03 - Forensic",
     "PicoCTF/Primer Parcial/01 - General Skills/Specialer.md",
@@ -192,12 +199,6 @@
     "PicoCTF/Primer Parcial/01 - General Skills/Flag-shop.md",
     "PicoCTF/Primer Parcial/01 - General Skills/Rust Fixme 1.md",
     "PicoCTF/Primer Parcial/01 - General Skills/Python Wrangling.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/HashingJobApp.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/FANTASY CTF.md",
-    "PicoCTF/Primer Parcial/01 - General Skills/Dont-you-love-banners.md",
-    "PicoCTF/02 - Forensic/C0rrupt.md",
-    "PicoCTF/02 - Forensic/WhitePages.md",
-    "PicoCTF/02 - Forensic/Shark on wire 2.md",
     "PicoCTF/02 - Forensic",
     "PicoCTF/T2 - Web",
     "PicoCTF/Primer Parcial/02 - Web",
@@ -205,7 +206,6 @@
     "PicoCTF/Primer Parcial/01 - General Skills",
     "PicoCTF/Primer Parcial",
     "PicoCTF/04 - Web",
-    "PicoCTF/03 - Web",
-    "PicoCTF/02 - Web"
+    "PicoCTF/03 - Web"
   ]
 }
